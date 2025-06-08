@@ -62,7 +62,7 @@ It covers essential SQL concepts such as:
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/yourusername/basics_sql_querries.git
+    git clone https://github.com/ShahnawazKakarh/basics_sql_querries.git
     ```
 
 2. Explore SQL files and examples.
